@@ -11,3 +11,7 @@ This project is a simple responsive landing page created as part of a Web Develo
 - Mobile-friendly with Media Queries
 
 ## 📂 Folder Structure
+/images/ → Folder for images, icons, logos etc.
+/index.html → Main HTML file
+/style.css → Main CSS file
+/README.md → Project Documentation
